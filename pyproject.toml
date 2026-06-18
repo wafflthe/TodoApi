@@ -8,4 +8,4 @@ version = "0.0.1"
 dependencies = [ "fastapi[standard]" ]
 
 [project.scripts]
-todo-api = "resolution_week3_YOUR_USERNAME.main:main"
+todo-api = "resolution_week3_Waffl.main:main"
